@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main_box{
+    border: solid 1px black;
+    height: 80vh;
+    width: 600px;
+    margin-top: 80px;
+
+}
+#heading{
+    color: #2B3A55;
+    font-weight: 900;
+
+}
+
+.ge{
+    margin-top: 60px;
+}
